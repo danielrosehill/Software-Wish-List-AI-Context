@@ -1,0 +1,9 @@
+# UI, UX Preferences
+
+I have some distinctive preferences for UX and UI, which should also be considered. I'm a strong believer that voice is the most natural interface for entering information into computer systems, so robust voice support is always an advantage for me. For any tool that offers voice recognition, and that's an important part of the product, I also try to check out what it's using under the hood because I've noticed significant differences in accuracy.
+
+I find that OpenAI Whisper has excellent accuracy and is more than good enough. However, at the time I'm creating this context data, the native browser-based voice recognition in Chrome is significantly worse, to the point that I find it hard to use. 
+
+Another distinctive feature of my preference for computer systems is that I have ADHD, which I believe influences the type of UIs that I interact best with. In general, I dislike UIs with visual clutter and gravitate towards more streamlined implementation, but as a long-term Linux user that might be called a productivity fan and power user, I also like to get some good functionality under the hood. Sometimes striking the balance can be hard.
+
+One feature that I really value, whether I'm accessing software through a web UI or on the desktop, is the ability to create custom keyboard shortcuts, which isn't always easy to find. As a second best, a well-developed and well-thought-out library of keyboard shortcuts is always appreciated, especially when shortcuts are provided to support the most common voice interaction flows, namely starting and stopping voice capture.

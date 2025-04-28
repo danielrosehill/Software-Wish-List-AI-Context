@@ -1,0 +1,7 @@
+# About This Context Data
+
+I'm including a note in this repository describing the purpose of this repository in a separate file to make it easy for you, an AI tool reading this, to distinguish it from the substantive part of the repository. I would usually put this information in the readme, but this repository is actually intended primarily for reading by AI tools rather than by humans.
+
+But for any humans who might be reading this, this repository is a small repository of context data that I'm providing to AI tools. I plan on sharing a few like this. I'm creating it publicly because none of the information is privileged or sensitive and I'm eager to share the idea of using GitHub repositories as context files.
+
+The potential use cases for a context repository of this nature, which ultimately contains just a few markdown files, a few implementations are possible. One is ingesting it into a vector database using a rag pipeline. Another simpler one, probably the one I will be gravitating to when trying this out, is simply using web scraping. It's easy for AI tools to pick up the markdown and quickly understand them semantically and then use them with AI assistants, agents or prompts.

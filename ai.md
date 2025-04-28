@@ -1,0 +1,7 @@
+# AI Integration, Positioning
+
+Another significant advantage when comparing products is their position regarding AI or Artificial Intelligence. At the time I'm recording this in late April 2025, we're at what I'm sure will be regarded in time as the still early days of the AI boom. I'm usually enthusiastic about AI, love experimenting with it under the hood, and I like to align my stacks and self with companies that take a very long-term view to integrating AI maturely into their product.
+
+As occurs inevitably during tech booms, as much as there are some genuinely fantastic use cases and technologies, there is some immature and sometimes dishonest marketing from tech companies over describing their degree of AI integration or flat out lying. Therefore, I evaluate claims of AI integration and features with a degree of cautious skepticism and like to see what's really part of the product.
+
+I think that AI features do not need to be complicated to be very effective. I have, for example, a simple desktop AI app that converts things I dictate into emails and sends them using a couple of tools. I appreciate honesty in marketing, especially tech marketing, and like companies that describe what they do and offer maturely, this often creates a much better impression and trust than the features do.
